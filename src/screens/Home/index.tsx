@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { Header } from '../../components/Header';
+
 import {
     Container,
 } from './styles';
@@ -7,7 +9,7 @@ import {
 export function Home(){
     return (
         <Container>
-            
+            <Header title="My List" />
         </Container>
     );
 }
