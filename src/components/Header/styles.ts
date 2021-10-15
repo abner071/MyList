@@ -1,8 +1,9 @@
 import styled from "styled-components/native";
+import { RFValue } from "react-native-responsive-fontsize";
 
 export const Container = styled.View`
     width: 100%;
-    height: 55px;
+    height: ${RFValue(65)}px;
     background-color: ${({ theme }) => theme.colors.primary};
     align-items: center;
     justify-content: center;
