@@ -7,9 +7,9 @@ export default {
     },
 
     fonts: {
-        light: 'Exo2_300Light',
-        regular: 'Exo2_400Regular',
-        medium: 'Exo2_500Medium',
+        light: 'Exo2_400Regular',
+        regular: 'Exo2_500Medium',
+        medium: 'Exo2_600SemiBold',
         bold: 'Exo2_700Bold',
     }
 }
