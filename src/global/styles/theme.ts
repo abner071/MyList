@@ -2,6 +2,7 @@ export default {
     colors: {
         primary: '#804083',
         secondary: '#D9C9A1',
+        secondary_light: '#4D4222',
         shape: '#FFFFFF',
         background: '#202024',
     },

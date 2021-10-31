@@ -9,7 +9,7 @@ import {
     Title,
     Content,
     ButtonAdd,
-    Icon
+    Icon,
 } from './styles';
 
 export function Home(){
