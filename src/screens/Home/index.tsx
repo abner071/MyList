@@ -18,7 +18,7 @@ export function Home(){
     const { navigate } = useNavigation();
 
     function handleCadastro(){
-        navigate('Cadastro');
+        navigate({ name: 'Cadastro'});
     }
 
     return (

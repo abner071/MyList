@@ -84,9 +84,7 @@ export function Cadastro(){
         <Container>
             <Header title="Nova Lista" />
 
-            <Form
-                scrollEnabled
-            >
+            <Form scrollEnabled >
                 <Input 
                     placeholder="Título"
                 />
